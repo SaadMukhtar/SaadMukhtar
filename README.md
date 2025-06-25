@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saad</h1>
-<h3 align="center">CS Student @ uWaterloo</h3>
+<h3 align="center">uWaterloo CS Grad</h3>
 ☘️ I love building, learning, working out, and exploring!
 
 
