@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saad</h1>
 <h3 align="center">uWaterloo CS Grad</h3>
-<p>💻 Software Engineer with internship experience at Tesla, Capital One, PlayStation, Dayforce, and Super.com</p>
+<p>💻 Software Engineer with experience at Tesla, Capital One, PlayStation, Dayforce, and Super.com</p>
 <p>🚀 Focused on backend and full-stack development using Python, TypeScript, C#, and SQL</p>
 <p>🔍 Passionate about building scalable systems and shipping real products</p>
 <p>🎯 Seeking high-impact SWE roles where I can grow fast and build smarter</p>
