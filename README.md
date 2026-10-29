@@ -1,11 +1,17 @@
-<h1 align="center">Hi 👋, I'm Saad</h1>
-<h3 align="center">uWaterloo CS Grad</h3>
-<p>💻 Software Engineer with experience at Tesla, Capital One, PlayStation, Dayforce, and Super.com</p>
-<p>🚀 Focused on backend and full-stack development using Python, TypeScript, C#, and SQL</p>
-<p>🔍 Passionate about building scalable systems and shipping real products</p>
-<p>🎯 Seeking high-impact SWE roles where I can grow fast and build smarter</p>
-<p></p>
-<p></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saadmukhtar&label=Profile%20views&color=0e75b6&style=flat" alt="saadmukhtar" /> </p>
+### hi, i'm saad 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saad-mukhtar) 
+```text
+$ git log --oneline --author="saad"
+
+a1f3c9e  (HEAD -> main)  feat: building AI agents that check their own work
+7b2e01d  feat(capital-one): took a platform from empty repo to production
+3c9d4a2  fix(capital-one): tracked down the bug hiding in plain sight
+5d61a0c  feat(tesla): shipped firmware security to the fleet
+e8f0b17  feat(super.com): built payments from day one of launch
+9f2a6b4  feat(playstation): shipped to PS5 and earned a patent
+0a1b2c3  init: uwaterloo cs
+```
+
+→ currently shipping [ask-my-notes](https://github.com/SaadMukhtar/ask-my-notes)
+
+[saadmukhtar.dev](https://saadmukhtar.dev) · [linkedin](https://linkedin.com/in/saad-mukhtar)
